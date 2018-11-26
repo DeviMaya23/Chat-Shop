@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="greentPrimary">#aedb7a</color>
+    <color name="greentPrimaryDark">#8bb955</color>
+    <color name="DarkPink2">#d24a78</color>
+    <color name="greent_background">#d7e6c5</color>
+    <color name="PastelPink">#efafc5</color>
+    <color name="DarkPink">#ac4266</color>
+
+    <color name="white">#ffffff</color>
+</resources>

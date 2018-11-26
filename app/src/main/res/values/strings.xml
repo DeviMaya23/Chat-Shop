@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat&amp;Shop</string>
+    <string name="localhost">192.168.0.8</string>
+</resources>
